@@ -24,3 +24,5 @@ The analysis was guided by two key questions:
 - Report (pdf) – Full written analysis and discussion
 - Presentation slides as pdf
 - README.md – Project overview (this file)
+
+You can view the notebook directly on GitHub (no need to download).
