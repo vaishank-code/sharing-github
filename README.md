@@ -1,8 +1,8 @@
 # The NHS Efficiency Dilemma: Expand or Optimise?
-This project analyses NHS appointment data to understand service demand, capacity pressures and operational inefficiencies across primary care settings. It focuses on evaluating whether existing resources are being used effectively and where improvements could be made to support patient outcomes and staff wellbeing.
+This project (as part of my LSE Data Analytics Career Accelerator) analyses NHS appointment data to understand service demand, capacity pressures and operational inefficiencies across primary care settings. It focuses on evaluating whether existing resources are being used effectively and where improvements could be made to support patient outcomes and staff wellbeing.
 
 ### Objectives
-The analysis was guided by two key questions:
+Two key questions to guide analysis:
 - Is current staffing and capacity sufficient to meet demand?
 - How efficiently are existing resources and appointment types being used?
 
